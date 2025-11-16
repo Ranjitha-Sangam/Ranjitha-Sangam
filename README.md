@@ -41,6 +41,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjitha-Sangam&layout=compact&theme=radical)
 
+## 🔥 GitHub Streaks  
+![GitHub Streak](https://streak-stats.demolab.com?user=Ranjitha-Sangam&theme=radical&hide_border=false)
+
 ---
 
 ## ✨ Fun Fact  
