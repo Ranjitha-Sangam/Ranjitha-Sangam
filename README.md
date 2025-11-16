@@ -52,6 +52,12 @@
 
 ---
 
-## ✨ Fun Fact  
-I debug faster when I’m listening to music — and slower when the bug is actually my own mistake 😆.
+<div align="center">
+  <h3>⚡ Fun Fact</h3>
+  <p style="font-size:1.05em">
+    Git says “Everything up-to-date”… but
+    <strong style="color:#ff69b4">I'm the one outdated.</strong> 😭🔥
+  </p>
+</div>
+
 
