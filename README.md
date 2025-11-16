@@ -21,8 +21,13 @@
 
 ## 🛠️ Languages & Tools  
 <p align="left">  
-  <img src="https://img.shields.io/badge/Java-orange"/>  
+  <img src="https://img.shields.io/badge/HTML-orange"/>  
+  <img src="https://img.shields.io/badge/CSS-blue"/>  
   <img src="https://img.shields.io/badge/JavaScript-yellow"/>  
+  <img src="https://img.shields.io/badge/PHP-purple"/>  
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white"/>  
+
+  <img src="https://img.shields.io/badge/Java-orange"/>  
   <img src="https://img.shields.io/badge/React-blue"/>  
   <img src="https://img.shields.io/badge/Node.js-green"/>  
   <img src="https://img.shields.io/badge/Express-black"/>  
@@ -33,6 +38,7 @@
   <img src="https://img.shields.io/badge/VSCode-blue"/>  
   <img src="https://img.shields.io/badge/TailwindCSS-0ea5e9"/>  
 </p>
+
 
 ---
 
