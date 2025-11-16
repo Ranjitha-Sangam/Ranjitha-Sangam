@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm <span style="color:#ff69b4">Ranjitha Sangam S S</span></h1>
 <h3 align="center">Aspiring Full-Stack Developer | DSA Enthusiast | MCA Student</h3>
 
@@ -6,11 +6,10 @@
 
 ### 🚀 About Me  
 - 🌱 Currently learning **DSA(Java) & MERN Stack**  
-- 💻 Working on **Projects + DSA + GSoC prep**  
+- 💻 Working on **Projects + DSA + Learning MERN**  
  
 - 💬 Ask me about **Java, MERN, SQL, React, DSA**  
 - 📄 Check out my resume: [![Resume](https://img.shields.io/badge/Resume-Click%20Here-brightgreen)](https://github.com/Ranjitha-Sangam/Ranjitha-Sangam/blob/main/Ranjitha_Sangam.pdf)
-**  
 - 📫 Reach me at: **ranjithasangamss@gmail.com**
 
 ---
