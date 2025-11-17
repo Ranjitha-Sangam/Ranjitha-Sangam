@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white"/>  
 
   <img src="https://img.shields.io/badge/Java-orange"/>  
-  <img src="https://img.shields.io/badge/React-blue"/>  
+ 
   <img src="https://img.shields.io/badge/Node.js-green"/>  
   <img src="https://img.shields.io/badge/Express-black"/>  
   <img src="https://img.shields.io/badge/MongoDB-darkgreen"/>  
