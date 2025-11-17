@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/Git-red"/>  
   <img src="https://img.shields.io/badge/GitHub-black"/>  
   <img src="https://img.shields.io/badge/VSCode-blue"/>  
+  <img src="https://img.shields.io/badge/C-blue"/>  
   <img src="https://img.shields.io/badge/TailwindCSS-0ea5e9"/>  
 </p>
 
