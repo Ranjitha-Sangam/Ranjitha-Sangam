@@ -9,8 +9,9 @@
 - 💻 Working on **Projects + DSA + Learning MERN**  
  
 - 💬 Ask me about **Java, MERN, SQL, React, DSA**  
-- 📄- 📄 Check out my resume: 
-[![Resume](https://img.shields.io/badge/Resume-Click%20Here-brightgreen)](https://github.com/Ranjitha-Sangam/Ranjitha-Sangam/blob/main/Ranjitha_Sangam.pdf)
+- 📄 Check out my resume:  
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-brightgreen?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Ranjitha-Sangam/Ranjitha-Sangam/blob/main/Ranjitha_Sangam.pdf)
+
 
 - 📫 Reach me at: **ranjithasangamss@gmail.com**
 
