@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm <span style="color:#ff69b4">Ranjitha Sangam S S</span></h1>
+<h1 align="center">Heyy, I'm <span style="color:#ff69b4">Ranjitha Sangam S S</span></h1>
 <h3 align="center">Aspiring Full-Stack Developer | DSA Enthusiast | MCA Student</h3>
 
 ---
