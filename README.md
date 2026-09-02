@@ -153,4 +153,4 @@ Cloud & DevOps                  ████░░░░░░░░░   Learni
 
 
 <p align="center">
-<i><b>I can spend hours solving a coding problem just because I want to understand *why* it works</i> </b> </p>
+<i><b>I can spend hours solving a coding problem just because I want to understand why it works</i> </b> </p>
