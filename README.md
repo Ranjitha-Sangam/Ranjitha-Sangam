@@ -1,6 +1,6 @@
 
 <h1 align="center">Heyy, I'm <span style="color:#ff69b4">Ranjitha Sangam S S</span></h1>
-<h3 align="center">Aspiring Full-Stack Developer | DSA Enthusiast | MCA Student</h3>
+<h3 align="center">Aspiring Full-Stack Developer | DSA Enthusiast | MCA Graduate</h3>
 
 ---
 
@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/MySQL-005C84"/>  
   <img src="https://img.shields.io/badge/Git-red"/>  
   <img src="https://img.shields.io/badge/GitHub-black"/>  
+   <img src="https://img.shields.io/badge/Docker-skyblue"/> 
   <img src="https://img.shields.io/badge/VSCode-blue"/>  
   <img src="https://img.shields.io/badge/C-blue"/>  
   <img src="https://img.shields.io/badge/TailwindCSS-0ea5e9"/>  
