@@ -1,23 +1,42 @@
 # Hey, I'm Ranjitha 👋
 
-### Full-Stack Developer in Progress 🚀 | DSA Enthusiast | MCA Graduate
+### Software Engineer | Software Developer | DSA Enthusiast
 
-I enjoy turning ideas into working applications and understanding how things work behind the code.
+I enjoy building software, solving problems, and understanding how systems work under the hood.
 
-Currently, I'm focused on becoming a strong **Full-Stack Developer**, improving my **DSA skills**, and building projects that solve practical problems.
-
----
-
-## 👩‍💻 A little about me
-
-- 🔭 Currently building **MERN Stack projects**
-- 🌱 Learning and improving **DSA with Java**
-- 💻 Interested in **Full-Stack Development & Software Engineering**
-- 🧠 Currently strengthening my knowledge of **DBMS, OS, CN & OOP**
-- 🚀 Building projects instead of just collecting tutorials
-- 🎯 Goal: Become a better developer one problem at a time
+I'm currently strengthening my skills in **Data Structures & Algorithms, Software Development, Databases, and Backend Engineering** while building practical projects.
 
 ---
+
+## 👩‍💻 About Me
+
+```java
+class Ranjitha {
+
+    String role = "Aspiring Software Engineer";
+
+    String[] interests = {
+        "Software Development",
+        "Problem Solving",
+        "Data Structures & Algorithms",
+        "Backend Development",
+        "Database Systems"
+    };
+
+    String[] technologies = {
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "MySQL",
+        "Docker",
+        "Git"
+    };
+
+    String goal = "Build reliable software and keep getting better at it.";
+}
 
 ## 🛠️ Tech I Work With
 
