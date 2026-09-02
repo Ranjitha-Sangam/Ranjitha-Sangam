@@ -1,4 +1,4 @@
-# Hey, I'm Ranjitha 👋
+# Hey, I'm Ranjitha Sangam
 
 ### Software Engineer | Software Developer | DSA Enthusiast
 
@@ -40,8 +40,7 @@ class Ranjitha {
         "Git"
     };
 
-    String currentlyLearning =
-        "DSA, System Design & Cloud";
+    
 
     String goal =
         "Build reliable software and keep improving every day.";
@@ -96,11 +95,11 @@ A MERN-based placement platform designed to simplify the campus recruitment proc
 
 **Tech:** React • Node.js • Express.js • MongoDB
 
-### ✍️ AI-Based Signature Verification
+### 🏠 Nestify
 
-A computer-vision based system that compares signatures and detects potential forgeries.
+A full-stack accommodation platform that helps users discover and manage rental properties through a simple and user-friendly interface.
 
-**Tech:** Python • OpenCV • ORB • SSIM • Streamlit
+**Tech:** React • Node.js • Express.js • MongoDB
 
 ### 🌦️ Weather Application
 
@@ -116,7 +115,6 @@ A React application that fetches and displays real-time weather information usin
 Data Structures & Algorithms    ███████████░░   Practicing
 Software Development            ███████████░░   Building
 Backend Engineering             █████████░░░░   Improving
-System Design                   █████░░░░░░░░   Exploring
 Cloud & DevOps                  ████░░░░░░░░░   Learning
 ```
 
@@ -153,8 +151,6 @@ Cloud & DevOps                  ████░░░░░░░░░   Learni
 
 ### ⚡ Fun Fact
 
-I spend a lot of time debugging code that worked perfectly **five minutes ago.** 😭
 
 <p align="center">
-  <i>Always learning. Always building. Always debugging.</i>
-</p>
+<i><b>I can spend hours solving a coding problem just because I want to understand *why* it works</i> </b> </p>
